@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://bit.ly/epgmacan,https://bit.ly/epg-mnc,https://bit.ly/nontonsite,https://bit.ly/Astro-epg,https://bit.ly/epg-vidio"
+#EXTM3U x-url-tvg="https://bit.ly/epgmacan,https://bit.ly/epg-mnc,https://bit.ly/nontonsite,https://bit.ly/Astro-epg,https://bit.ly/epg-vidio"
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/3r921zQx/antv-1.png" group-title="BERITA", ANTV
 https://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-id="METRO TV" tvg-name="METRO TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/qqXtthcL/metro-tv-id.png" group-title="BERITA", METRO TV
