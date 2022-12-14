@@ -135,14 +135,6 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165057
 http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157582
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/196480
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="MOVIE",AXN
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165079
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",New Movies
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -178,7 +170,7 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",ANTV#2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",ANTV
 https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -273,10 +265,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MUSIC",4Music
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MUSIC",Vevo '80s
 https://bit.ly/3OhWrCj
 
@@ -349,10 +337,6 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/296214
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="BERITA", Berita Satu World#2
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162136
-
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="BERITA", Bloomberg TV
 http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157599
 
@@ -397,10 +381,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157593
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="KIDS",Besmart
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165087
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",LEGO Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
@@ -427,10 +407,6 @@ https://bit.ly/3RvST11
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="LOKAL",RCTI
 http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157591
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="LOKAL",ANTV
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165072
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="LOKAL",Trans 7#2
@@ -715,20 +691,12 @@ https://h1.intechmedia.net/intech/ch17.m3u8
 https://h1.intechmedia.net/intech/ch27.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="TV MUSLIM", Izzah TV#2
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/275984
-
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/42ef54fc21a8cac61f49d1290965ce7b.png" group-title="TV MUSLIM", MTA 3
 http://quality-restream.com:8080/ea188ac3/82d52ec7f7/266815
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS", Kids Station
 http://123.30.146.172:21585/502/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="KIDS", Baby TV#2
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157605
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Zoo moo
@@ -878,7 +846,7 @@ https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",ZEE Bioskop #2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",ZEE Bioskop
 https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1016,14 +984,6 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165060
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="BERITA", CNBC Indonesia#4
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165062
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="BERITA", Metro TV#3
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165059
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QF0FFMxg/perfectminor-binamadanitv-logo.png" group-title="TV MUSLIM", Bina Madani TV
 https://h1.intechmedia.net/intech/ch20.m3u8
 
@@ -1137,10 +1097,6 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/287423
 http://quality-restream.com:8080/ea188ac3/82d52ec7f7/197055
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="MOVIE",Zee Bioskop
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157584
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",MTV Movie Hits
 https://bit.ly/3etlpS6
 
@@ -1184,7 +1140,7 @@ https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",AXN#2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",AXN
 https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1194,7 +1150,7 @@ https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",HBO Hits 32
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",HBO Hits
 https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1214,7 +1170,7 @@ https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Besmart #2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Besmart
 https://av-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1327,4 +1283,3 @@ https://bit.ly/3xOTa6o
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Love Stories
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
