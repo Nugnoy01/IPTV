@@ -1,0 +1,558 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/as.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/th.xml," refresh="3600"
+
+#EXTINF:-1 tvg-id="24 Hour Free Movies" tvg-name="24 Hour Free Movies" tvg-language="Indonesian" tvg-logo="" group-title="",24 Hour Free Movies
+https://bit.ly/3dHN7dQ
+#EXTINF:-1 tvg-id="4Music" tvg-name="4Music" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="Ahsan TV" tvg-name="Ahsan TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/WdH2Rq1y/perfectminor-ahsantv-logo.png" group-title="TV MUSLIM",Ahsan TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1 tvg-id="Al-Furqon TV" tvg-name="Al-Furqon TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/VdPrTTVt/perfectminor-alfurqontv-logo.png" group-title="TV MUSLIM",Al-Furqon TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:-1 tvg-id="Al-Iman TV" tvg-name="Al-Iman TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/gnGc3P7g/perfectminor-alimantv-logo.png" group-title="TV MUSLIM", Al-Iman TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="KNOWLEDGE",ANIMAL PLANET
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157532
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Animax
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="LOKAL",ANTV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165072
+#EXTINF:-1 tvg-id="Aqsha TV" tvg-name="Aqsha TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/ykKxnRDX/perfectminor-aqshatv-logo.png" group-title="TV MUSLIM",Aqsha TV
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTVISI TV" tvg-name="ARTVISI TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/vcvBKm9R/perfectminor-artvisitv-logo.png" group-title="TV MUSLIM", ARTVISI TV
+https://streaming.yufid.com/hls/artvisi.m3u8
+#EXTINF:-1 tvg-id="Ashiil TV" tvg-name="Ashiil TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/34MYNMpC/perfectminor-ashiiltv-logo.png" group-title="TV MUSLIM",Ashiil TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="MOVIE",AXN
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165079
+#EXTINF:-1 tvg-id="Baby Shark TV" tvg-name="Baby Shark TV" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Baby Shark TV
+https://bit.ly/3TYQJbS
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", BABY TV
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8
+#EXTINF:-1 tvg-id="Baby TV Asia" tvg-name="Baby TV Asia" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Baby TV Asia
+https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 tvg-id="Bali TV" tvg-name="Bali TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="DAERAH",Bali TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/197962
+#EXTINF:-1 tvg-id="Balikpapan TV" tvg-name="Balikpapan TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="DAERAH",Balikpapan TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166409
+#EXTINF:-1 tvg-id="Bandung TV" tvg-name="Bandung TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="DAERAH",Bandung TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166416
+#EXTINF:-1 tvg-id="beIN Sport 1 Indo" tvg-name="beIN Sport 1 Indo" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",beIN Sport 1 Indo
+https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:-1 tvg-id="beIN Sport 2 Indo" tvg-name="beIN Sport 2 Indo" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",beIN Sport 2 Indo
+https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 tvg-id="beIn Sport Xtra Pluto" tvg-name="beIn Sport Xtra Pluto" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",beIn Sport Xtra Pluto
+https://bit.ly/3t7HM45
+#EXTINF:-1 tvg-id="Bellator MMA" tvg-name="Bellator MMA" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Bellator MMA
+https://bit.ly/3O4uBZV
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="BERITA", Berita Satu
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162513
+#EXTINF:-1 tvg-id="Berita Satu news" tvg-name="Berita Satu news" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="BERITA", Berita Satu news
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/287421
+#EXTINF:-1 tvg-id="Berita Satu World" tvg-name="Berita Satu World" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png" group-title="BERITA", Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-id="Besmart" tvg-name="Besmart" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="KIDS",Besmart
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165087
+#EXTINF:-1 tvg-id="Billiard TV" tvg-name="Billiard TV" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="Bin Baz TV" tvg-name="Bin Baz TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/Wd2DpZjb/perfectminor-binbaztv-logo.png" group-title="TV MUSLIM",Bin Baz TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1 tvg-id="Bina Madani TV" tvg-name="Bina Madani TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/QF0FFMxg/perfectminor-binamadanitv-logo.png" group-title="TV MUSLIM", Bina Madani TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="BERITA", Bloomberg TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157599
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="KIDS",Boomerang
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165109
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",BTV
+https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="KIDS",Cartoon Network
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157593
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Cbeebies" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Cbeebies
+https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF:-1 tvg-id="Celestial Classic Movie" tvg-name="Celestial Classic Movie" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",Celestial Classic Movie
+https://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:-1 tvg-id="Celestial Movie" tvg-name="Celestial Movie" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",Celestial Movie
+https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema World" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",Cinema World
+https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",CINEMAX
+https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 tvg-id="CJ ENM" tvg-name="CJ ENM" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",CJ ENM
+https://tinyurl.com/TiviMe-CJENM
+#EXTINF:-1 tvg-id="CMC" tvg-name="CMC" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-id="CMT Music" tvg-name="CMT Music" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",CMT Music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/mg5rrf1h/cmbc-indonesia-us-id.png" group-title="BERITA", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/rmFgNP96/cnn-id.png" group-title="BERITA", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="CONtv ANIME" tvg-name="CONtv ANIME" tvg-language="Indonesian" tvg-logo="" group-title="ANIME",CONtv ANIME
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+#EXTINF:-1 tvg-id="Crime+ Investigation" tvg-name="Crime+ Investigation" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/b9ed140c72f29ede61bcf92dd236fc03.gif" group-title="KNOWLEDGE",Crime+ Investigation
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165052
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="KNOWLEDGE",Discovery World
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157597
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="KNOWLEDGE",Disney Channel
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165075
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS", Disney Junior
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162511
+#EXTINF:-1 tvg-id="DMTV Malang" tvg-name="DMTV Malang" tvg-language="Indonesian" tvg-logo="" group-title="DAERAH",DMTV Malang
+https://h1.intechmedia.net/intech/ch51.m3u8
+#EXTINF:-1 tvg-id="EuroSport" tvg-name="EuroSport" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",EuroSport
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="KNOWLEDGE",Fashion TV Asia
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="Fight Box" tvg-name="Fight Box" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Fight Box
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-id="Fight Netwotk" tvg-name="Fight Netwotk" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Fight Netwotk
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="FIGHT Sport" tvg-name="FIGHT Sport" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",FIGHT Sport
+https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 tvg-id="FMN" tvg-name="FMN" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="KNOWLEDGE",FMN
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165057
+#EXTINF:-1 tvg-id="FMN #2" tvg-name="FMN #2" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",FMN #2
+https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:-1 tvg-id="Forever Kids" tvg-name="Forever Kids" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Forever Kids
+https://bit.ly/3TXJz7C
+#EXTINF:-1 tvg-id="Fox Crime" tvg-name="Fox Crime" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bb07886b4c8a97d8138b57601ce3f4f.png" group-title="KNOWLEDGE",Fox Crime
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165076
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="KNOWLEDGE",Fox Life
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165083
+#EXTINF:-1 tvg-id="Free Sport" tvg-name="Free Sport" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Free Sport
+https://tinyurl.com/TiviMe-FreeSports
+#EXTINF:-1 tvg-id="GALAXY" tvg-name="GALAXY" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",GALAXY
+https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:-1 tvg-id="GALAXY Premium" tvg-name="GALAXY Premium" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",GALAXY Premium
+https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-id="GARDA TV" tvg-name="GARDA TV" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",GARDA TV
+https://h1.intechmedia.net/intech/ch121.m3u8
+#EXTINF:-1 tvg-id="Garfiled & Friends" tvg-name="Garfiled & Friends" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Garfiled & Friends
+https://bit.ly/3xbYSja
+#EXTINF:-1 tvg-id="GARUDA TV" tvg-name="GARUDA TV" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",GARUDA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF:-1 tvg-id="Gemilang TV" tvg-name="Gemilang TV" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",Gemilang TV
+https://h1.intechmedia.net/intech/ch55.m3u8
+#EXTINF:-1 tvg-id="Glory Kickboxing" tvg-name="Glory Kickboxing" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Glory Kickboxing
+https://bit.ly/3GCBoqY
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="LOKAL",GTV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157578
+#EXTINF:-1 tvg-id="Happy Kids" tvg-name="Happy Kids" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Happy Kids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+#EXTINF:-1 tvg-id="Happy Kids Junior" tvg-name="Happy Kids Junior" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Happy Kids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-id="Hard Knocks" tvg-name="Hard Knocks" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Hard Knocks
+https://bit.ly/3LfNBUM
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIE",HBO
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/197972
+#EXTINF:-1 tvg-id="HBO #2" tvg-name="HBO #2" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",HBO #2
+https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIE",HBO Family
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/197055
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/196480
+#EXTINF:-1 tvg-id="HBO Hits 32" tvg-name="HBO Hits 32" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",HBO Hits 32
+https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",HBO Signature
+https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 tvg-id="Hijrah TV" tvg-name="Hijrah TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/8JrcXBdw/perfectminor-hijrahtv-logo.png" group-title="TV MUSLIM", Hijrah TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="KNOWLEDGE",History
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162519
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="KNOWLEDGE",Hits
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165085
+#EXTINF:-1 tvg-id="HITS #2" tvg-name="HITS #2" tvg-language="Indonesian" tvg-logo="" group-title="LIFESTYLE",HITS #2
+https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:-1 tvg-id="Hits Movies" tvg-name="Hits Movies" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="MOVIE",Hits Movies
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/221947
+#EXTINF:-1 tvg-id="I AM Channel" tvg-name="I AM Channel" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="KNOWLEDGE",I AM Channel
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/287423
+#EXTINF:-1 tvg-id="Ie" tvg-name="Ie" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="KNOWLEDGE",Ie
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157582
+#EXTINF:-1 tvg-id="IMPACT Wrestling" tvg-name="IMPACT Wrestling" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Indonesia Movie Channel" tvg-name="Indonesia Movie Channel" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",Indonesia Movie Channel
+https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/MTvKRzNh/inews-id.png" group-title="BERITA", iNews
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157579
+#EXTINF:-1 tvg-id="Insan TV" tvg-name="Insan TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/phDxn0JN/perfectminor-insantv-logo.png" group-title="TV MUSLIM",Insan TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 tvg-id="Izzah TV" tvg-name="Izzah TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/56p43Rdb/perfectminor-izzahtv-logo.png" group-title="TV MUSLIM", Izzah TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+#EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="DAERAH",Jak TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157601
+#EXTINF:-1 tvg-id="Jakarta Globe News" tvg-name="Jakarta Globe News" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="BERITA", Jakarta Globe News
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166399
+#EXTINF:-1 tvg-id="Jambi TV" tvg-name="Jambi TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/90e2c8f15ca01f83dbc470a4ac534f9e.png" group-title="DAERAH",Jambi TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/275985
+#EXTINF:-1 tvg-id="JITV" tvg-name="JITV" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",JITV
+https://h1.intechmedia.net/intech/ch65.m3u8
+#EXTINF:-1 tvg-id="Kartoon Channel" tvg-name="Kartoon Channel" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Kartoon Channel
+https://bit.ly/3B8sJdL
+#EXTINF:-1 tvg-id="KBS drama" tvg-name="KBS drama" tvg-language="Indonesian" tvg-logo="" group-title="LIFESTYLE",KBS drama
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:-1 tvg-id="Kids Movie Club" tvg-name="Kids Movie Club" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Kids Movie Club
+https://bit.ly/3xbVZPs
+#EXTINF:-1 tvg-id="Kids Pang TV" tvg-name="Kids Pang TV" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Kids Pang TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JoNYGj1bF5swTq531QQg&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 tvg-id="Kids Station" tvg-name="Kids Station" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", Kids Station
+http://123.30.146.172:21585/502/index.m3u8
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="KIDS",Kids TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162505
+#EXTINF:-1 tvg-id="KidsFlix" tvg-name="KidsFlix" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",KIX
+https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:-1 tvg-id="KOMPAS TV" tvg-name="KOMPAS TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/zvFwgw9t/kompas-tv-id.png" group-title="BERITA", KOMPAS TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165060
+#EXTINF:-1 tvg-id="KPOP" tvg-name="KPOP" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",KPOP
+https://tinyurl.com/TiviMe-NewKPop
+#EXTINF:-1 tvg-id="LEGO Channel" tvg-name="LEGO Channel" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",LEGO Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGO Kids Channel" tvg-name="LEGO Kids Channel" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",LEGO Kids Channel
+https://bit.ly/3cZ7Cm7
+#EXTINF:-1 tvg-id="LEGO Toons" tvg-name="LEGO Toons" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",LEGO Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-id="Lifestyle & Fashion" tvg-name="Lifestyle & Fashion" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="KNOWLEDGE",Lifestyle & Fashion
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157592
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",LIFETIME
+https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF:-1 tvg-id="Live Music Replay" tvg-name="Live Music Replay" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Live Music Replay
+https://bit.ly/3L4Brhm
+#EXTINF:-1 tvg-id="MAGNA Channel" tvg-name="MAGNA Channel" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",MAGNA Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-id="Major League Soccer" tvg-name="Major League Soccer" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Major League Soccer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Makkah Live" tvg-name="Makkah Live" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/sQSf4fyN/perfectminor-makkahlive-logo.png" group-title="TV MUSLIM",Makkah Live
+https://h1.intechmedia.net/intech/ch14.m3u8
+#EXTINF:-1 tvg-id="MAV TV" tvg-name="MAV TV" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",MAV TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Medina Live" tvg-name="Medina Live" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/bShyCXwN/perfectminor-medinalive-logo.png" group-title="TV MUSLIM",Medina Live
+https://h1.intechmedia.net/intech/ch13.m3u8
+#EXTINF:-1 tvg-id="Meds.TV" tvg-name="Meds.TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/7f1GyVFW/perfectminor-meds-tv-logo.png" group-title="TV MUSLIM", Meds.TV
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 tvg-id="METRO GLOBE NETWORK" tvg-name="METRO GLOBE NETWORK" tvg-language="Indonesian" tvg-logo="" group-title="BERITA", METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-id="METRO TV" tvg-name="METRO TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/qqXtthcL/metro-tv-id.png" group-title="BERITA", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MGI TV" tvg-name="MGI TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/Yvq9Bwfv/perfectminor-mgitv-logo.png" group-title="TV MUSLIM", MGI TV
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Miao Mi" tvg-name="Miao Mi" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Miao Mi
+https://av-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",MLB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="MMA TV" tvg-name="MMA TV" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",MMA TV
+https://bit.ly/3eXziZe
+#EXTINF:-1 tvg-id="MNC News" tvg-name="MNC News" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/cJ5TTckr/mnc-news-id.png" group-title="BERITA", MNC News
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165058
+#EXTINF:-1 tvg-id="MNC Sport 1" tvg-name="MNC Sport 1" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",MNC Sport 1
+https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-id="MNC Sport 2" tvg-name="MNC Sport 2" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",MNC Sport 2
+https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-id="MNC Sport 3" tvg-name="MNC Sport 3" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",MNC Sport 3
+https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="LOKAL",MNC TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165054
+#EXTINF:-1 tvg-id="MoonBug Kids" tvg-name="MoonBug Kids" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",MoonBug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere (UK)" tvg-name="MovieSphere (UK)" tvg-language="Indonesian" tvg-logo="" group-title="",MovieSphere (UK)
+https://tinyurl.com/MovieSphere
+#EXTINF:-1 tvg-id="MTA 2 Asia" tvg-name="MTA 2 Asia" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a902cc12d2d0916c946176086b5df2c.png" group-title="TV MUSLIM",MTA 2 Asia
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162522
+#EXTINF:-1 tvg-id="MTA 3" tvg-name="MTA 3" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/42ef54fc21a8cac61f49d1290965ce7b.png" group-title="TV MUSLIM", MTA 3
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/266815
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV
+https://bit.ly/3HMG7qJ
+#EXTINF:-1 tvg-id="MTV 90s" tvg-name="MTV 90s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV 90s
+http://85.17.17.249/mtv_rocks/index.m3u8
+#EXTINF:-1 tvg-id="MTV Biggest POP" tvg-name="MTV Biggest POP" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="MTV Block Party" tvg-name="MTV Block Party" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-id="MTV Hits France (Not 24/7)" tvg-name="MTV Hits France (Not 24/7)" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV Hits France (Not 24/7)
+http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:-1 tvg-id="MTV Japan (Not 24/7)" tvg-name="MTV Japan (Not 24/7)" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV Japan (Not 24/7)
+http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV Love MusiC" tvg-name="MTV Love MusiC" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV Love MusiC
+https://bit.ly/3TXAifG
+#EXTINF:-1 tvg-id="MTV Movie Hits" tvg-name="MTV Movie Hits" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",MTV Movie Hits
+https://bit.ly/3etlpS6
+#EXTINF:-1 tvg-id="MTV Music" tvg-name="MTV Music" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV Music
+https://bit.ly/3RzzKey
+#EXTINF:-1 tvg-id="MTV Spankin' New" tvg-name="MTV Spankin' New" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-id="MTV Unplugged" tvg-name="MTV Unplugged" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",MTV Unplugged
+https://bit.ly/3DczYE3
+#EXTINF:-1 tvg-id="Muadz TV" tvg-name="Muadz TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/hXjS31cx/perfectminor-muadztv-logo.png" group-title="TV MUSLIM",Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:-1 tvg-id="Music Rock Zone" tvg-name="Music Rock Zone" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Music Rock Zone
+https://bit.ly/3RRSwO6
+#EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="MUSIC",Music TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165108
+#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Naruto
+https://bit.ly/3RvST11
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="KNOWLEDGE",NAT GEO
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165094
+#EXTINF:-1 tvg-id="NET" tvg-name="NET" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="LOKAL",NET
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/80292
+#EXTINF:-1 tvg-id="NEW KMOVIES" tvg-name="NEW KMOVIES" tvg-language="Indonesian" tvg-logo="" group-title="",NEW KMOVIES
+https://tinyurl.com/TiviMe-NewKMovies
+#EXTINF:-1 tvg-id="New Movies" tvg-name="New Movies" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",New Movies
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="Niaga TV" tvg-name="Niaga TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/Lht6qsxq/perfectminor-niagatv-logo.png" group-title="TV MUSLIM", Niaga TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Nick Jr
+https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#EXTINF:-1 tvg-id="Nick Jr Pluto TV" tvg-name="Nick Jr Pluto TV" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Nick Jr Pluto TV
+https://bit.ly/3QwSRoa
+#EXTINF:-1 tvg-id="Nick Junior" tvg-name="Nick Junior" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="KIDS",Nick Junior
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165107
+#EXTINF:-1 tvg-id="Nick Music" tvg-name="Nick Music" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Nick Music
+http://85.17.17.249/MTV_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nick Pluto TV" tvg-name="Nick Pluto TV" tvg-language="Indonesian" tvg-logo="'" group-title="KIDS",Nick Pluto TV
+https://bit.ly/3Bwp9eR
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Nickelodeon
+https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 tvg-id="Now 70s" tvg-name="Now 70s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now 80s" tvg-name="Now 80s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Now 80s
+https://bit.ly/3S2ZXT7
+#EXTINF:-1 tvg-id="Now 90s" tvg-name="Now 90s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Now 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="ONE" tvg-name="ONE" tvg-language="Indonesian" tvg-logo="" group-title="MOVIE",ONE
+https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-id="ONE Piece" tvg-name="ONE Piece" tvg-language="Indonesian" tvg-logo="" group-title="LAINNYA",ONE Piece
+https://bit.ly/3RRQ2z7
+#EXTINF:-1 tvg-id="Padang TV" tvg-name="Padang TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="DAERAH",Padang TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162140
+#EXTINF:-1 tvg-id="Paramount Movie Channel" tvg-name="Paramount Movie Channel" tvg-language="Indonesian" tvg-logo="" group-title="",Paramount Movie Channel
+https://bit.ly/3QD0uKW
+#EXTINF:-1 tvg-id="PFL MMA" tvg-name="PFL MMA" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",PFL MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="PGA Tour" tvg-name="PGA Tour" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",PGA Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Pluto TV Action" tvg-name="Pluto TV Action" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Action
+https://bit.ly/39SoJ7h
+#EXTINF:-1 tvg-id="Pluto TV Always Funny Videos" tvg-name="Pluto TV Always Funny Videos" tvg-language="Indonesian" tvg-logo="" group-title="COMEDY",Pluto TV Always Funny Videos
+https://tinyurl.com/AMFVSS
+#EXTINF:-1 tvg-id="Pluto TV Comedy" tvg-name="Pluto TV Comedy" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Comedy
+https://bit.ly/3HPTypV
+#EXTINF:-1 tvg-id="Pluto TV Crime Movies" tvg-name="Pluto TV Crime Movies" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Crime Movies
+https://bit.ly/3qAyqfs
+#EXTINF:-1 tvg-id="Pluto TV Cult Films" tvg-name="Pluto TV Cult Films" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Cult Films
+https://bit.ly/3OGm0wr
+#EXTINF:-1 tvg-id="Pluto TV Drama" tvg-name="Pluto TV Drama" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Drama
+https://bit.ly/3tZ6cNr
+#EXTINF:-1 tvg-id="Pluto TV Fantastic" tvg-name="Pluto TV Fantastic" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Fantastic
+https://bit.ly/3u1hD7A
+#EXTINF:-1 tvg-id="Pluto TV Fear Factor" tvg-name="Pluto TV Fear Factor" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Fear Factor
+https://bit.ly/3qoXZQA
+#EXTINF:-1 tvg-id="Pluto TV Horror" tvg-name="Pluto TV Horror" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Horror
+https://bit.ly/3NjRho7
+#EXTINF:-1 tvg-id="Pluto TV Just For Laughs" tvg-name="Pluto TV Just For Laughs" tvg-language="Indonesian" tvg-logo="" group-title="COMEDY",Pluto TV Just For Laughs
+https://bit.ly/3yhvTLT
+#EXTINF:-1 tvg-id="Pluto TV Kids" tvg-name="Pluto TV Kids" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Pluto TV Kids
+https://bit.ly/3RUJhML
+#EXTINF:-1 tvg-id="Pluto TV Love Stories" tvg-name="Pluto TV Love Stories" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Love Stories
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Pluto TV Pimp My Ride" tvg-name="Pluto TV Pimp My Ride" tvg-language="Indonesian" tvg-logo="" group-title="COMEDY",Pluto TV Pimp My Ride
+https://bit.ly/3Rr0nSE
+#EXTINF:-1 tvg-id="Pluto TV Pranks" tvg-name="Pluto TV Pranks" tvg-language="Indonesian" tvg-logo="" group-title="COMEDY",Pluto TV Pranks
+https://bit.ly/3RvBaXo
+#EXTINF:-1 tvg-id="Pluto TV Reaction" tvg-name="Pluto TV Reaction" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Reaction
+https://bit.ly/3eDoZJp
+#EXTINF:-1 tvg-id="Pluto TV Romance" tvg-name="Pluto TV Romance" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Romance
+https://bit.ly/3OHnk2p
+#EXTINF:-1 tvg-id="Pluto TV Sports" tvg-name="Pluto TV Sports" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Pluto TV Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Pluto TV Staff Picks" tvg-name="Pluto TV Staff Picks" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Staff Picks
+https://bit.ly/3BHXCap
+#EXTINF:-1 tvg-id="Pluto TV Suspense" tvg-name="Pluto TV Suspense" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Suspense
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Pluto TV Terror" tvg-name="Pluto TV Terror" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Terror
+https://bit.ly/3xOTa6o
+#EXTINF:-1 tvg-id="Pluto TV Thrillers" tvg-name="Pluto TV Thrillers" tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Thrillers
+https://bit.ly/3bpnWvh
+#EXTINF:-1 tvg-id="Pluto TV TV Comedy Movies" tvg-name="Pluto TV TV Comedy Movies" tvg-language="Indonesian" tvg-logo="" group-title="COMEDY",Pluto TV TV Comedy Movies
+https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="Pluto TV Vs." tvg-name="Pluto TV Vs." tvg-language="Indonesian" tvg-logo="" group-title="",Pluto TV Vs.
+https://bit.ly/3d1NsYt
+#EXTINF:-1 tvg-id="Puto Anime All Age" tvg-name="Puto Anime All Age" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Puto Anime All Age
+https://bit.ly/3HVVQ72
+#EXTINF:-1 tvg-id="Puto Anime All Day" tvg-name="Puto Anime All Day" tvg-language="Indonesian" tvg-logo="" group-title="LAINNYA",Puto Anime All Day
+https://bit.ly/39KU8Zz
+#EXTINF:-1 tvg-id="Radio Kita TV" tvg-name="Radio Kita TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/SXHN9Y09/perfectminor-radiokitatv-logo.png" group-title="TV MUSLIM", Radio Kita TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-name="Rajawali TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="DAERAH",Rajawali TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/196457
+#EXTINF:-1 tvg-id="Rakuten TV Action Movies" tvg-name="Rakuten TV Action Movies" tvg-language="Indonesian" tvg-logo="" group-title="",Rakuten TV Action Movies
+https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV British Films" tvg-name="Rakuten TV British Films" tvg-language="Indonesian" tvg-logo="" group-title="",Rakuten TV British Films
+https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Drama Movies" tvg-name="Rakuten TV Drama Movies" tvg-language="Indonesian" tvg-logo="" group-title="",Rakuten TV Drama Movies
+https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Family" tvg-name="Rakuten TV Family" tvg-language="Indonesian" tvg-logo="" group-title="LIFESTYLE",Rakuten TV Family
+https://e7934a8802cc472f957e8cb4adb933e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenFamily/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Romance Movies" tvg-name="Rakuten TV Romance Movies" tvg-language="Indonesian" tvg-logo="" group-title="",Rakuten TV Romance Movies
+https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Top Movies" tvg-name="Rakuten TV Top Movies" tvg-language="Indonesian" tvg-logo="" group-title="",Rakuten TV Top Movies
+https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8
+#EXTINF:-1 tvg-id="Rasyaad TV" tvg-name="Rasyaad TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/7CRbNQzf/perfectminor-rasyaadtv-logo.png" group-title="TV MUSLIM",Rasyaad TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1 tvg-id="RB TV" tvg-name="RB TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/3e57586b1522d66dab2defcfc42b7bdc.png" group-title="DAERAH",RB TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/266810
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="LOKAL",RCTI
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157591
+#EXTINF:-1 tvg-id="Reformed 21" tvg-name="Reformed 21" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="TV MUSLIM",Reformed 21
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/174574
+#EXTINF:-1 tvg-id="RetroCrush1" tvg-name="RetroCrush1" tvg-language="Indonesian" tvg-logo="" group-title="LAINNYA",RetroCrush1
+https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCrush2" tvg-name="RetroCrush2" tvg-language="Indonesian" tvg-logo="" group-title="LAINNYA",RetroCrush2
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+#EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 tvg-id="Rodja TV" tvg-name="Rodja TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/rzxzSjww/perfectminor-rodjatv-logo.png" group-title="TV MUSLIM", Rodja TV
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RRI Net" tvg-name="RRI Net" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="LOKAL",RRI Net
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/266816
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-language="Indonesian" tvg-logo="" group-title="LOKAL",RTV
+https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 tvg-id="Salam TV" tvg-name="Salam TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/fSfw1HV7/perfectminor-salamtv-logo.png" group-title="TV MUSLIM", Salam TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian" tvg-language="Indonesian" tvg-logo="" group-title="KNOWLEDGE",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SOCCER Channel" tvg-name="SOCCER Channel" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",SOCCER Channel
+https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",SPOTV
+https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",SPOTV 2
+https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-id="STADIUM" tvg-name="STADIUM" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",STADIUM
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Stingray  Greatest Hits" tvg-name="Stingray  Greatest Hits" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Stingray  Greatest Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
+#EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-name="Stingray Classic Rock" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Stingray Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Stingray Flashback 70s" tvg-name="Stingray Flashback 70s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Stingray Flashback 70s
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+#EXTINF:-1 tvg-id="Stingray Hit List" tvg-name="Stingray Hit List" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Stingray Hit List
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
+#EXTINF:-1 tvg-id="Stingray Nothin' But 90s" tvg-name="Stingray Nothin' But 90s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Stingray Nothin' But 90s
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+#EXTINF:-1 tvg-id="Stingray Remember The '80s" tvg-name="Stingray Remember The '80s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Stingray Remember The '80s
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
+#EXTINF:-1 tvg-id="Stingray Rock Alternative" tvg-name="Stingray Rock Alternative" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1 tvg-id="Sunnah Jalan Pasti TV" tvg-name="Sunnah Jalan Pasti TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/qtqzydzP/perfectminor-sjptv-logo.png" group-title="TV MUSLIM",Sunnah Jalan Pasti TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1 tvg-id="Super Toons" tvg-name="Super Toons" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Super Toons
+https://tinyurl.com/SuperToons
+#EXTINF:-1 tvg-id="Surau TV" tvg-name="Surau TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/cKtdd1KL/perfectminor-surautv-logo.png" group-title="TV MUSLIM",Surau TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:-1 tvg-id="TAYO TV" tvg-name="TAYO TV" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",TAYO TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Tegar TV Lampung" tvg-name="Tegar TV Lampung" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="DAERAH",Tegar TV Lampung
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166411
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",Tennis Channel
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+#EXTINF:-1 tvg-id="The Edge" tvg-name="The Edge" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",The Edge
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="MOVIE",Thrill
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157580
+#EXTINF:-1 tvg-id="Toons Google" tvg-name="Toons Google" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Toons Google
+https://tinyurl.com/TiviMe-ToonGoogles
+#EXTINF:-1 tvg-id="Totally Turtles" tvg-name="Totally Turtles" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Totally Turtles
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1 tvg-id="Trace Urban" tvg-name="Trace Urban" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="LOKAL",Trans 7
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162502
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="LOKAL",Trans TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162503
+#EXTINF:-1 tvg-id="TV 9 Nusantara" tvg-name="TV 9 Nusantara" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="TV MUSLIM",TV 9 Nusantara
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162509
+#EXTINF:-1 tvg-id="TV ONE" tvg-name="TV ONE" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/bJ9csWNK/tv-one-id.png" group-title="BERITA", TV ONE
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/296214
+#EXTINF:-1 tvg-id="TV Sci-Fi" tvg-name="TV Sci-Fi" tvg-language="Indonesian" tvg-logo="" group-title="",TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="TV Thrillers Movies" tvg-name="TV Thrillers Movies" tvg-language="Indonesian" tvg-logo="" group-title="",TV Thrillers Movies
+https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-language="Indonesian" tvg-logo="" group-title="LIFESTYLE",TVN
+https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF:-1 tvg-id="TVN Movies" tvg-name="TVN Movies" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="MOVIE",TVN Movies
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157596
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="LOKAL",TVRI
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162504
+#EXTINF:-1 tvg-id="TVRI Gorontalo" tvg-name="TVRI Gorontalo" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f0192fca1abdd2175b5aff860adfd63e.png" group-title="DAERAH",TVRI Gorontalo
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166698
+#EXTINF:-1 tvg-id="TVRI Jambi" tvg-name="TVRI Jambi" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/c5c7106cdb7be8d41387d8696774d07b.png" group-title="DAERAH",TVRI Jambi
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166692
+#EXTINF:-1 tvg-id="TVRI Jawa Barat" tvg-name="TVRI Jawa Barat" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="DAERAH",TVRI Jawa Barat
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166688
+#EXTINF:-1 tvg-id="TVRI Kalimantan Barat" tvg-name="TVRI Kalimantan Barat" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="DAERAH",TVRI Kalimantan Barat
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166701
+#EXTINF:-1 tvg-id="TVRI Kalimantan Tengah" tvg-name="TVRI Kalimantan Tengah" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="DAERAH",TVRI Kalimantan Tengah
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166702
+#EXTINF:-1 tvg-id="TVRI Sport" tvg-name="TVRI Sport" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="TVRI World" tvg-name="TVRI World" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="LOKAL",TVRI World
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/295291
+#EXTINF:-1 tvg-id="UFA Live 24" tvg-name="UFA Live 24" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/kRKVGFBD/perfectminor-ufa24-logo.png" group-title="TV MUSLIM",UFA Live 24
+https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:-1 tvg-id="Vevo 2K" tvg-name="Vevo 2K" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo 2K
+https://bit.ly/3NkcUoQ
+#EXTINF:-1 tvg-id="Vevo '70s" tvg-name="Vevo '70s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo '70s
+https://bit.ly/3OkyHxq
+#EXTINF:-1 tvg-id="Vevo '80s" tvg-name="Vevo '80s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo '80s
+https://bit.ly/3OhWrCj
+#EXTINF:-1 tvg-id="VEVO 90s" tvg-name="VEVO 90s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",VEVO 90s
+https://tinyurl.com/TiviMe-Vevo90s00s
+#EXTINF:-1 tvg-id="Vevo '90s" tvg-name="Vevo '90s" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo '90s
+https://bit.ly/3GS5WFz
+#EXTINF:-1 tvg-id="Vevo Country" tvg-name="Vevo Country" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo Country
+https://bit.ly/3BDpT1T
+#EXTINF:-1 tvg-id="Vevo Latino" tvg-name="Vevo Latino" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo Latino
+https://bit.ly/3DdDrlO
+#EXTINF:-1 tvg-id="Vevo Pop" tvg-name="Vevo Pop" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo Pop
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1 tvg-id="Vevo R&B" tvg-name="Vevo R&B" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo R&B
+https://bit.ly/3RPleyX
+#EXTINF:-1 tvg-id="Vevo Reggaeton & Trap" tvg-name="Vevo Reggaeton & Trap" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo Reggaeton & Trap
+https://bit.ly/3Ry03Si
+#EXTINF:-1 tvg-id="Vevo Retro Rock" tvg-name="Vevo Retro Rock" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo Retro Rock
+https://bit.ly/3GFqbpv
+#EXTINF:-1 tvg-id="Vevo True School Hip-Hop" tvg-name="Vevo True School Hip-Hop" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Vevo True School Hip-Hop
+https://bit.ly/3AYTTDE
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",VH1 Classic
+https://bit.ly/3PTpq0A
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="MOVIE",Warner TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157594
+#EXTINF:-1 tvg-id="Wesal TV" tvg-name="Wesal TV" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/HJrkj4NH/perfectminor-wesaltv-logo.png" group-title="TV MUSLIM", Wesal TV
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/266813
+#EXTINF:-1 tvg-id="World Billiards TV" tvg-name="World Billiards TV" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=7&ads.device_lmt=0&ads.device_type=web&ads.device_year=2019&ads.env=prod&ads.gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.rtv_content_id=3694&ads.rtvid=271858&ads.streaming_id=462725b2-c58b-41a5-aaed-7a162796bb47&ads.user_type=visitor&ads.wurl_channel=967
+#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="XFC TV" tvg-name="XFC TV" tvg-language="Indonesian" tvg-logo="" group-title="SPORT",XFC TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
+#EXTINF:-1 tvg-id="XITE" tvg-name="XITE" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITE 80s Flashback" tvg-name="XITE 80s Flashback" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",XITE 80s Flashback
+https://tinyurl.com/XITE80s
+#EXTINF:-1 tvg-id="XITE 90s Throwback" tvg-name="XITE 90s Throwback" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",XITE 90s Throwback
+https://tinyurl.com/XITE90ss
+#EXTINF:-1 tvg-id="XITE Hits" tvg-name="XITE Hits" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",XITE Hits
+https://tinyurl.com/TiviMe-XiteHits
+#EXTINF:-1 tvg-id="XITE Just Chill" tvg-name="XITE Just Chill" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",XITE Just Chill
+https://tinyurl.com/XiteJTCL
+#EXTINF:-1 tvg-id="XITE Rock On" tvg-name="XITE Rock On" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",XITE Rock On
+https://tinyurl.com/XiteRock
+#EXTINF:-1 tvg-id="Yo! MTV" tvg-name="Yo! MTV" tvg-language="Indonesian" tvg-logo="" group-title="MUSIC",Yo! MTV
+https://bit.ly/3d5VfVm
+#EXTINF:-1 tvg-id="Zee Bioskop" tvg-name="Zee Bioskop" tvg-language="Indonesian" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="MOVIE",Zee Bioskop
+http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157584
+#EXTINF:-1 tvg-id="Zoo moo" tvg-name="Zoo moo" tvg-language="Indonesian" tvg-logo="" group-title="KIDS",Zoo moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
