@@ -53,14 +53,15 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Biznet Kids#2
 https://bit.ly/3MIB23q
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Boomerang #2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Boomerang
 https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",BTV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="LOKAL",BTV
 https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 
@@ -78,25 +79,25 @@ https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",Celestial Classic Movie
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",Celestial Classic Movie
 https://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",Celestial Movie
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",Celestial Movie
 https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",Cinema World
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",Cinema World
 https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",CINEMAX
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",CINEMAX
 https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
@@ -104,7 +105,7 @@ https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 https://tinyurl.com/TiviMe-CJENM
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MUSIC",CMC
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 
@@ -138,7 +139,7 @@ http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hs
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",FMN
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",FMN
 https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 
@@ -152,13 +153,13 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165083
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",GALAXY
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",GALAXY
 https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",GALAXY Premium
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",GALAXY Premium
 https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 
@@ -168,7 +169,7 @@ https://bit.ly/3xbYSja
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",GTV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="LOKAL",GTV
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
@@ -182,29 +183,25 @@ https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",HBO
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",HBO
 https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",HBO Family
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",HBO Family
 https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/196480
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",HBO Hits 2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",HBO Hits
 https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",HBO Signature
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",HBO Signature
 https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 
@@ -218,25 +215,25 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162519
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LIFESTYLE",HITS
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",HITS
 https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",Hits Movies
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",Hits Movies
 https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",IMC
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",IMC
 https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",Inews
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="BERITA",Inews
 https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
@@ -253,8 +250,7 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157601
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="BERITA", Jakarta Globe News
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166399
-
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8?checkedby:iptvcat.net
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",JITV
 https://h1.intechmedia.net/intech/ch65.m3u8
@@ -292,13 +288,13 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",KIX
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",KIX
 https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="BERITA",KOMPAS TV
 https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 
@@ -320,7 +316,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",LIFETIME
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",LIFETIME
 https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 
@@ -370,15 +366,15 @@ https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",MNC TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="LOKAL",MNC TV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",MoonBug Kids
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0''" group-title="KIDS",MoonBug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",MoonBug Kids#2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0''" group-title="KIDS",MoonBug Kids#2
 https://bit.ly/3TXzQOD
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIE",Moviesphere Free
@@ -505,7 +501,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",ONE
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",ONE
 https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
@@ -661,7 +657,8 @@ https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",RTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="LOKAL",RTV
 https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 
@@ -726,13 +723,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playli
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="MOVIE",Thrill
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157580
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",THRILL #2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",THRILL
 https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 
@@ -784,13 +777,13 @@ https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LIFESTYLE",TVN
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="LIFESTYLE",TVN
 https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",TVN Movies
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",TVN Movies
 https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
@@ -856,7 +849,7 @@ https://bit.ly/3PTpq0A
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",WARNER TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",WARNER TV
 https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 
@@ -894,7 +887,7 @@ http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157584
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",ZEE Bioskop #2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="MOVIE",ZEE Bioskop #2
 https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
