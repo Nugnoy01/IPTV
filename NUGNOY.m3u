@@ -50,12 +50,11 @@ http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="BERITA", Berita Satu
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162513
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="BERITA", Berita Satu news
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/287421
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-id="Berita Satu" tvg-logo="https://static.mncnow.id/images/channel/b9b6e2a5-29c.png" group-title="BERITA", Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+$https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png" group-title="BERITA", Berita Satu World
@@ -147,7 +146,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmFgNP96/cnn-id.png" group-title="BERITA", CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+http://iptv12k.com:35461/80201111401/757789/1815
+
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="KNOWLEDGE",Discovery Asia
@@ -159,11 +159,8 @@ http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/192878.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="KNOWLEDGE",Disney Channel
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165075
+http://skylogic.site:8080/ace2524d/773dbded1a/157544
 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS", Disney Junior
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162511
 
 
 #EXTINF:-1 tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014455.jpg" group-title="LIFESTYLE",Fashion TV Asia
@@ -178,10 +175,6 @@ https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Forever Kids
 https://bit.ly/3TXJz7C
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="KNOWLEDGE",Fox Life
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165083
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -226,13 +219,9 @@ https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/196480
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIE",HBO Hits
 https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 
@@ -249,9 +238,10 @@ http://iptv12k.com:35461/80201111401/757789/2059
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8JrcXBdw/perfectminor-hijrahtv-logo.png" group-title="TV MUSLIM", Hijrah TV
 https://h1.intechmedia.net/intech/ch8.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="KNOWLEDGE",History
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/162519
+https://liveaneviadev.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -286,12 +276,10 @@ https://h1.intechmedia.net/intech/ch1.m3u8
 https://h1.intechmedia.net/intech/ch7.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="DAERAH",Jak TV
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157601
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="BERITA", Jakarta Globe News
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/166399
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-id="3017" tvg-id="jaktv" tvg-logo="https://i.postimg.cc/mD9NrpxJ/jaktv.png" group-title=" NASIONAL", JAK TV 
+https://liveaneviadev.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LOKAL",JITV
@@ -542,101 +530,6 @@ https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://bit.ly/3QD0uKW
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Action
-https://bit.ly/39SoJ7h
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="COMEDY",Pluto TV Always Funny Videos
-https://tinyurl.com/AMFVSS
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Comedy
-https://bit.ly/3HPTypV
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Crime Movies
-https://bit.ly/3qAyqfs
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Cult Films
-https://bit.ly/3OGm0wr
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Drama
-https://bit.ly/3tZ6cNr
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Fantastic
-https://bit.ly/3u1hD7A
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Fear Factor
-https://bit.ly/3qoXZQA
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Horror
-https://bit.ly/3NjRho7
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="COMEDY",Pluto TV Just For Laughs
-https://bit.ly/3yhvTLT
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Pluto TV Kids
-https://bit.ly/3RUJhML
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Love Stories
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="COMEDY",Pluto TV Pimp My Ride
-https://bit.ly/3Rr0nSE
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="COMEDY",Pluto TV Pranks
-https://bit.ly/3RvBaXo
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Reaction
-https://bit.ly/3eDoZJp
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Romance
-https://bit.ly/3OHnk2p
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Staff Picks
-https://bit.ly/3BHXCap
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Suspense
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Terror
-https://bit.ly/3xOTa6o
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Thrillers
-https://bit.ly/3bpnWvh
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="COMEDY",Pluto TV TV Comedy Movies
-https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="",Pluto TV Vs.
-https://bit.ly/3d1NsYt
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Puto Anime All Age
-https://bit.ly/3HVVQ72
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="LAINNYA",Puto Anime All Day
-https://bit.ly/39KU8Zz
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SXHN9Y09/perfectminor-radiokitatv-logo.png" group-title="TV MUSLIM", Radio Kita TV
 https://h1.intechmedia.net/intech/ch16.m3u8
@@ -750,8 +643,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playli
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="MOVIE",Thrill
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/157580
+https://liveaneviadev.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
