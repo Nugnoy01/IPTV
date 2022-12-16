@@ -3,14 +3,18 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WdH2Rq1y/perfectminor-ahsantv-logo.png" group-title="TV MUSLIM",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VdPrTTVt/perfectminor-alfurqontv-logo.png" group-title="TV MUSLIM",Al-Furqon TV
 https://h1.intechmedia.net/intech/ch24.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gnGc3P7g/perfectminor-alimantv-logo.png" group-title="TV MUSLIM", Al-Iman TV
 https://h1.intechmedia.net/intech/ch9.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="KNOWLEDGE",ANIMAL PLANET
 http://iptv12k.com:35461/80201111401/757789/2064
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -147,7 +151,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmFgNP96/cnn-id.png" group-title="BERITA", CNN Indonesia
 http://iptv12k.com:35461/80201111401/757789/1815
-
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="KNOWLEDGE",Discovery Asia
@@ -454,8 +457,16 @@ https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 https://bit.ly/3RvST11
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="KNOWLEDGE",NAT GEO
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165094
+https://liveaneviadev.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-logo="https://static.mncnow.id/images/channel/5a40bf32-e89.png" group-title="KNOWLEDGE", Nat Geo Wild
+https://liveaneviadev.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -484,10 +495,6 @@ https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="KIDS",Nick Jr Pluto TV
 https://bit.ly/3QwSRoa
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="KIDS",Nick Junior
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/165107
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MUSIC",Nick Music
@@ -528,7 +535,6 @@ https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/sports/nfl/paramount-plus/81a45f40e0-1613656935/paramount-plus-1536x864-crop.jpg" group-title="",Paramount Movie Channel
 https://bit.ly/3QD0uKW
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SXHN9Y09/perfectminor-radiokitatv-logo.png" group-title="TV MUSLIM", Radio Kita TV
@@ -711,10 +717,6 @@ https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQLvLbYr/mmm.png" group-title="MOVIE",TVN Movies
 https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="LOKAL",TVRI World
-http://quality-restream.com:8080/ea188ac3/82d52ec7f7/295291
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kRKVGFBD/perfectminor-ufa24-logo.png" group-title="TV MUSLIM",UFA Live 24
